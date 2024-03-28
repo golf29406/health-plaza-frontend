@@ -5,35 +5,15 @@ import Leaderboard from '../components/leaderboard';
 import { Typography, Grid } from '@mui/material';
 import { v4 as uuidv4 } from 'uuid';
 import data from '../../../public/data.json'
+const _ = require('lodash');
 
-const questions = [
-    {
-        question: "A flashing red traffic light signifies that a driver should do what?",
-        answers: [
-            "stop",
-            "speed up",
-            "proceed with caution",
-            "honk the horn"
-        ],
-        correctAnswer: "stop"
-    },
-    {
-        question: "A knish is traditionally stuffed with what filling?",
-        answers: [
-            "potato",
-            "creamed corn",
-            "lemon custard",
-            "raspberry jelly"
-        ],
-        correctAnswer: "potato"
-    },
-];
+const questions = _.shuffle(data);
 
 const Game = () => {
     const [score, setScore] = useState(0);
     const [players, setPlayers] = useState<any>([]);
 
-    const handleAnswerSubmit = (selectedAnswer: any, correctAnswer: any) => {
+    const handleAnswerSubmit = (selectedAnswer: number, correctAnswer: number) => {
         if (selectedAnswer === correctAnswer) {
             let newScore = score + 1
             setScore(newScore);
