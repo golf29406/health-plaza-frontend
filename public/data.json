@@ -1,0 +1,202 @@
+[
+    {
+      "question": "A flashing red traffic light signifies that a driver should do what?",
+      "answers": [
+        "stop",
+        "speed up",
+        "proceed with caution",
+        "honk the horn"
+      ],
+      "correctAnswer": "stop"
+    },
+    {
+      "question": "A knish is traditionally stuffed with what filling?",
+      "answers": [
+        "potato",
+        "creamed corn",
+        "lemon custard",
+        "raspberry jelly"
+      ],
+      "correctAnswer": "potato"
+    },
+    {
+      "question": "A pita is a type of what?",
+      "answers": [
+        "fresh fruit",
+        "flat bread",
+        "French tart",
+        "friend bean dip"
+      ],
+      "correctAnswer": "flat bread"
+    },
+    {
+      "question": "A portrait that comically exaggerates a person's physical traits is called a what?",
+      "answers": [
+        "landscape",
+        "caricature",
+        "still life",
+        "Impressionism"
+      ],
+      "correctAnswer": "caricature"
+    },
+    {
+      "question": "A second-year college student is usually called a what?",
+      "answers": [
+        "sophomore",
+        "senior",
+        "freshman",
+        "junior"
+      ],
+      "correctAnswer": "sophomore"
+    },
+    {
+      "question": "A student who earns a J.D. can begin his or her career as a what?",
+      "answers": [
+        "lawyer",
+        "bricklayer",
+        "doctor",
+        "accountant"
+      ],
+      "correctAnswer": "lawyer"
+    },
+    {
+      "question": "A triptych is a work of art that is painted on how many panels?",
+      "answers": [
+        "two",
+        "three",
+        "five",
+        "eight"
+      ],
+      "correctAnswer": "three"
+    },
+    {
+      "question": "According to a famous line from the existentialist play 'No Exit' what is hell?",
+      "answers": [
+        "oneself",
+        "other people",
+        "little made large",
+        "hued in green and blue"
+      ],
+      "correctAnswer": "other people"
+    },
+    {
+      "question": "According to a popular slogan, what state should people not 'mess with'?",
+      "answers": [
+        "New York",
+        "Texas",
+        "Montana",
+        "Rhode Island"
+      ],
+      "correctAnswer": "Texas"
+    },
+    {
+      "question": "According to a Yale University study, what smell is the most recognizable to American adults?",
+      "answers": [
+        "tuna",
+        "laundry",
+        "popcorn",
+        "coffee"
+      ],
+      "correctAnswer": "coffee"
+    },
+    {
+      "question": "According to folklore, the 'jackalope' is an antlered version of what animal?",
+      "answers": [
+        "chicken",
+        "rabbit",
+        "moose",
+        "snake"
+      ],
+      "correctAnswer": "rabbit"
+    },
+    {
+      "question": "According to Greek mythology, who was Apollo's twin sister?",
+      "answers": [
+        "Aphrodite",
+        "Artemis",
+        "Venus",
+        "Athena"
+      ],
+      "correctAnswer": "Artemis"
+    },
+    {
+      "question": "According to legend, if you give someone the 'evil eye' what are you doing?",
+      "answers": [
+        "cursing them",
+        "blessing a child",
+        "counting money",
+        "passing time"
+      ],
+      "correctAnswer": "cursing them"
+    },
+    {
+      "question": "According to legend, in what country are you most likely to meet a leprechaun?",
+      "answers": [
+        "Ireland",
+        "Poland",
+        "Greenland",
+        "Scotland"
+      ],
+      "correctAnswer": "Ireland"
+    },
+    {
+      "question": "According to the American Kennel Club, what is the most popular breed of dog in the US as of 1999?",
+      "answers": [
+        "Poodle",
+        "Beagle",
+        "German shepherd",
+        "Labrador retriever"
+      ],
+      "correctAnswer": "Labrador retriever"
+    },
+    {
+      "question": "According to the Bible, Moses and Aaron had a sister named what?",
+      "answers": [
+        "Jochebed",
+        "Ruth",
+        "Leah",
+        "Miriam"
+      ],
+      "correctAnswer": "Miriam"
+    },
+    {
+      "question": "According to the children's nursery rhyme, what type of ocean did Columbus sail in 1492?",
+      "answers": [
+        "calm",
+        "blue",
+        "windy",
+        "really big"
+      ],
+      "correctAnswer": "blue"
+    },
+    {
+      "question": "According to the Mother Goose nursery rhyme, which child is full of woe?",
+      "answers": [
+        "Monday's child",
+        "Wednesday's child",
+        "Thursday's child",
+        "Saturday's child"
+      ],
+      "correctAnswer": "Wednesday's child"
+    },
+    {
+      "question": "According to the popular saying, what should you do 'when in Rome'?",
+      "answers": [
+        "watch your wallet",
+        "see the Coliseum",
+        "as the Romans do",
+        "don't drink the water"
+      ],
+      "correctAnswer": "as the Romans do"
+    },
+    {
+      "question": "According to the proverb, necessity is the mother of what?",
+      "answers": [
+        "Invention",
+        "Luck",
+        "Problems",
+        "Procrastination"
+      ],
+      "correctAnswer": "Invention"
+    }
+  ]
