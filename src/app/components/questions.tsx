@@ -21,6 +21,7 @@ const Questions = ({ questions, onSubmit, onFinished }: any) => {
             setPlayerName("")
         }
     }, [statusEndgame])
+
     const handleNextQuestion = () => {
         onSubmit(selectedAnswer, questions[currentQuestion].correctAnswer);
         setSelectedAnswer('');
@@ -53,7 +54,7 @@ const Questions = ({ questions, onSubmit, onFinished }: any) => {
                     value={selectedAnswer}
                     onChange={handleAnswerChange}
                 >
-                    {questions[currentQuestion].answers.map((answer: any, index: any) => (
+                    {questions[currentQuestion].answers.map((answer: any, index: number) => (
                         <FormControlLabel
                             key={index}
                             value={answer}
