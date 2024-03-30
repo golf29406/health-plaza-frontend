@@ -7,7 +7,12 @@ import { v4 as uuidv4 } from 'uuid';
 import data from '../../../public/data.json'
 const _ = require('lodash');
 
-const questions = _.shuffle(data);
+const questions = _.shuffle(data.map(item => ({
+    ...item,
+    answers: _.shuffle(item.answers)
+})));
+
+//console.log('questions', questions)
 
 const Game = () => {
     const [score, setScore] = useState(0);
