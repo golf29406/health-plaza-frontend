@@ -66,7 +66,7 @@ const Game = () => {
                         Reset
                     </Button>
                 </Grid>
-                <Grid item xs={12}>Your array : {arrayPrefix}</Grid>
+                <Grid item xs={12}>Your array : {arrayPrefix.join(',')}</Grid>
                 <Grid item xs={12}>Result : {prefix}</Grid>
             </Grid>
         </Grid>
